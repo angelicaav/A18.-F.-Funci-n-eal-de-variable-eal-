@@ -1,7 +1,7 @@
 %School                :Tecnologico de Estudios Superiores de Jilotepec 
-%Specialty             :Ingeniería en Sistemas Computacionales 
+%Specialty             :IngenierÃ­a en Sistemas Computacionales 
 % Title                :Funcion real de variable real
-% Description          :Script del quinto ejercicio de la actividad 18
+% Description          :Ejercicio de la actividad 18
 % Author               :Angelica Arellano Vilchiz
 % Date                 :202123524 
 %Grupo                 :3101
